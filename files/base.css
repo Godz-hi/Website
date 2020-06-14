@@ -1,0 +1,94 @@
+/**
+* @name MinimalCord With Some Fixes
+* @author Colyn#1234 (Orginal Gibbu#1211)
+* @version 0.0.1
+* @description Fixed Up MinimalCord Theme
+* @website http://google.com
+*/
+
+.searchResultsWrap-3-pOjs {
+    background-color: #171a1f;
+}
+
+.searchResultMessage-30QnSN.hit-1CXhXT {
+    background-color: #1b1e23;
+    border: 0px solid;
+    box-shadow: 0 0 10px 6px #040405;
+}
+
+.searchResult-2N9RV4:before {
+    background-image: linear-gradient(0deg,transparent,#040405);
+}
+
+.searchResult-2N9RV4:after {
+    background-image: -webkit-gradient(linear,left top,left bottom,from(transparent),to(#040405))
+}
+
+.channelName-wvgELL {
+    background: #171a1f
+}
+
+#app-mount .jumpToPresentBar-9P20AM {
+    background: var(--background-floating);
+}
+
+.jumpButton-1ol35X {
+    background-color: var(--background-floating);
+}
+
+#app-mount .placeholder-37qJjk {
+    color: white;
+}
+
+#app-mount .wrapper-1Rf91z .guildsError-b7zR5H {
+    background: rgb(0, 105, 255);
+    border: rgb(0, 105, 255);
+}
+
+#app-mount .wrapper-1Rf91z .guildsError-b7zR5H:hover {
+    background: rgb(0, 0, 255);
+}
+
+#app-mount .wrapper-2ZbzR9 .slideBody-2nMrnU, #app-mount .wrapper-2ZbzR9 .slideBody-2nMrnU, #app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div > div > div > div > div > div > header {
+    background-color: #171a1f;
+    color: white;
+}
+
+.theme-dark .action-1lSjCi, #app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div > div > div > div > div > div > div > div.action-1lSjCi.da-action.create-3jownz > div.colorStandard-2KCXvj.size16-1P40sf.body-3AJVSA.da-body, #app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div > div > div > div > div > div > div > div.action-1lSjCi.da-action.join-33Tr-7 > div.colorStandard-2KCXvj.size16-1P40sf.body-3AJVSA.da-body {
+    background: #1b1e23;
+    color: white;
+}
+
+#app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div > div > div > div > div > div > div > div.action-1lSjCi.da-action.create-3jownz > div.colorStandard-2KCXvj.size16-1P40sf.body-3AJVSA.da-body, #app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div > div > div > div > div > div > div > div.action-1lSjCi.da-action.join-33Tr-7 > div.colorStandard-2KCXvj.size16-1P40sf.body-3AJVSA.da-body {
+    padding-top: 10px;
+}
+
+#app-mount > div.layerContainer-yqaFcK.da-layerContainer > div.layer-2KE1M9.da-layer > div > div {
+    background-color: #171a1f;
+}
+
+.search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng, .description-QF3836, .helpText-h3r3wC, .avatarUploader-3XDtmn .sizeInfo-SKMPPw, .label-wQQoIq, .theme-dark .cancelButton-RGXhAE, .inputLabel-vJ2Z0B, .colorMuted-HdFt4q, .description-Bw8krY {
+    color: white;
+}
+
+.header-39GIC8, #app-mount .modal-yWgWj-, #app-mount .root-1gCeng .footer-3rDWdC {
+    background-color: #171a1f;
+}
+
+#app-mount > div.app-1q1i1E.da-app > div > div.layers-3iHuyZ.da-layers.layers-3q14ss.da-layers > div > div > div > div > div.container-3Mxszk.da-container > div > div {
+    background-color: #171a1f;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6, #app-mount > div.app-1q1i1E.da-app > div > div.layers-3iHuyZ.da-layers.layers-3q14ss.da-layers > div > div > div > div > div.container-3Mxszk.da-container > div > div > div > div.wrapper-3Lw29Y.da-wrapper > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.installationPath-3cStrB.da-installationPath > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6 > span, .avatarUploaderInner-3UNxY3 {
+    background-color: rgb(0, 105, 255);
+}
+
+.title-2Dc-Cb, .sampleLink-KPFu3I {
+    color: rgb(0, 105, 255);
+}
+
+.protip-1b9XPC {
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
