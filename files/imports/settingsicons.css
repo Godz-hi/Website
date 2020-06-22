@@ -41,7 +41,7 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/windows.png) center}
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
-.side-8zPYf6:nth-child(2)::before{background:url(https://godz-hi.github.io/Website/images/overviewicon.png) center}
+#app-mount > div.app-1q1i1E.da-app > div > div.layers-3iHuyZ.da-layers.layers-3q14ss > div:nth-child(2) > div > div.sidebarRegion-VFTUkN.da-sidebarRegion > div > div > nav > div:nth-child(2)::before{background:url(https://godz-hi.github.io/Website/images/overviewicon.png) center}
 /*==  MAC OS  ==*/
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
